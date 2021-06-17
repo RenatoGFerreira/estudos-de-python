@@ -1,0 +1,1 @@
+#Escreva um programa que converta uma temperatura digitada em ºC E CONVERTA PARA ºF.
