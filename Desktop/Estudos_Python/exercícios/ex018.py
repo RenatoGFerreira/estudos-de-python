@@ -10,3 +10,4 @@ cosseno = cos(radians(angulo))
 tangente = tan(radians(angulo))
 
 print(f'Para o ângulo de {angulo:.1f}º, \n -> Seno: {seno:.2f} \n -> Cosseno: {cosseno:.2f} \n -> Tangente: {tangente:.2f}')
+
